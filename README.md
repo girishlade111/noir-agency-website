@@ -158,3 +158,9 @@ Any static host works after `npm run build`:
 ## 📄 License
 
 This project is provided as-is for demonstration and portfolio purposes. Replace this section with your chosen license (MIT, etc.) if you plan to distribute it.
+
+---
+
+## 👤 Author
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in) · [github.com/girishlade111](https://github.com/girishlade111)
